@@ -113,10 +113,10 @@
 </html>
 ```
 
-링크 삽입
+링크 삽입 <br>
 [보여지는 글자 ex. 네이버](https://naver.com)
 
-사진 삽입 -> drag&drop
+사진 삽입 -> drag&drop <br>
 ![backgroundi](https://github.com/user-attachments/assets/3132bb54-e19c-49d0-a89b-3b2e0689b0a5)
 
 >이것은 인용문
